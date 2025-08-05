@@ -1,3 +1,13 @@
+#### what is Kubernetes
+   * Kubernetes (also known as K8s) is an open-source container orchestration platform developed by Google and now maintained by the Cloud Native Computing Foundation (CNCF). It is used to automate the deployment, scaling, and management of containerized applications.
+#### why Kubernetes
+* When you have many containers running across multiple machines, manually managing them becomes very hard. Kubernetes helps by:
+   * Automatically placing containers based on resource needs and constraints.
+   * Scaling applications up/down based on usage.
+   * Restarting failed containers automatically.
+   * Managing service discovery and load balancing.
+   * Rolling out updates with zero downtime.
+
 >> Distributed Computing: Distributed computing refers to a system where multiple computers (or nodes) work together to solve a large problem or process data collaboratively. The tasks are divided among the nodes, enabling parallel processing for faster and more efficient computation.
 
 **Components of Distributed Computing**
